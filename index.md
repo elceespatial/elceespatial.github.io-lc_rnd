@@ -1,6 +1,6 @@
-# CLIM680 [Final Project](elceespatial/elceespatial.github.io/clim680_FA23_CMIP6_CanESM5_Correlation_Analysis.ipynb)
+# CLIM680 [Final Project](https://github.com/elceespatial/elceespatial.github.io-lc_rnd/blob/main/clim680_FA23_CMIP6_CanESM5_Correlation_Analysis.ipynb)
 
--- [Previous Course Assignments](elceespatial/elceespatial.github.io/notebooks)
+-- [Previous Course Assignments](https://github.com/elceespatial/elceespatial.github.io-lc_rnd/tree/main/notebooks)
 
 #### Analzying CMIP6 CanESM5 and Diopole Mode Index Analysis of Precipation Analomies and Positive/Negative IOD in the East Africa
 
@@ -17,7 +17,7 @@ Q1: What areas in East Africa experience peak cumulative precipitation during pe
 
 ## Data Sources: 
 
-***Data: A description of your primary dataset and any additional datasets used e.g. climate indices, comparison datasets.  Should include links or paths to where the datasets are located and some information about the data original source. Should also include any unique information about your data relevant to this class e.g. data is on an irregular grid ***
+**Data: A description of your primary dataset and any additional datasets used e.g. climate indices, comparison datasets.  Should include links or paths to where the datasets are located and some information about the data original source. Should also include any unique information about your data relevant to this class e.g. data is on an irregular grid**
 
 
 - **[CMIP6]('https://storage.googleapis.com/cmip6/cmip6-zarr-consolidated-stores.csv') The Canadian Earth System Model version 5 Model Description** : The Canadian Earth System Model version 5 (CanESM5) is a global model developed to simulate historical climate change and variability, to make centennial-scale projections of future climate, and to produce initialized seasonal and decadal predictions. CanESM5 is comprised of three-dimensional atmosphere (T63 spectral resolution equivalent roughly to 2.8∘) and ocean (nominally 1∘) general circulation models, a sea-ice model, a land surface scheme, and explicit land and ocean carbon cycle models. The model features relatively coarse resolution and high throughput, which facilitates the production of large ensembles. CanESM5 has a notably higher equilibrium climate sensitivity (5.6 K) than its predecessor, CanESM2 (3.7 K), which we briefly discuss, along with simulated changes over the historical period. CanESM5 simulations contribute to the Coupled Model Intercomparison Project phase 6 (CMIP6) and will be employed for climate science and service applications in Canada. [GMD - The Canadian Earth System Model version 5 (CanESM5.0.3)] (https://gmd.copernicus.org/articles/12/4823/2019/)
