@@ -37,13 +37,13 @@ Update Status: Periodically updated
 
 ## Code and Methodolgy
 - Obtain CMIP6 data via Google Cloud
---Plot precipitation for historical CMIP6 data
--Calculate Climatology and Anomalies Create a timeseries of global-average precipitation
---Compare different time periods over precip mm
--Calculate Composite Indices
---Calculate DIO Index 
---Compare anomalies and DIO Index
-Statistical Significance – Pearson’s R
+- Plot precipitation for historical CMIP6 data
+- Calculate Climatology and Anomalies Create a timeseries of global-average precipitation
+- Compare different time periods over precip mm
+- Calculate Composite Indices
+- Calculate DIO Index 
+- Compare anomalies and DIO Index
+- Statistical Significance – Pearson’s R
 
 
 ## Results: 
