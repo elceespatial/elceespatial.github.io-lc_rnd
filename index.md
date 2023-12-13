@@ -1,4 +1,6 @@
-# CLIM680 Final Project [Course Assignments] (notebooks)
+# CLIM680 [Final Project](elceespatial/elceespatial.github.io/clim680_FA23_CMIP6_CanESM5_Correlation_Analysis.ipynb)
+
+-- [Previous Course Assignments](elceespatial/elceespatial.github.io/notebooks)
 
 #### Analzying CMIP6 CanESM5 and Diopole Mode Index Analysis of Precipation Analomies and Positive/Negative IOD in the East Africa
 
