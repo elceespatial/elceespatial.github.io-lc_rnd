@@ -1,4 +1,4 @@
-# CLIM680 [Final Project](elceespatial/elceespatial.github.io/clim680_FA23_CMIP6_CanESM5_Correlation_Analysis.ipynb)
+# CLIM680 [Final Project](https://github.com/elceespatial/elceespatial.github.io-lc_rnd/blob/main/clim680_FA23_CMIP6_CanESM5_Correlation_Analysis.ipynb)
 
 -- [Previous Course Assignments](elceespatial/elceespatial.github.io/notebooks)
 
