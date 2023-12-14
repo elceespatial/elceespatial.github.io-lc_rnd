@@ -29,12 +29,13 @@ Q1: What areas in East Africa experience peak cumulative precipitation during pe
 Precipitation (kg m-2 s-) The sum of liquid and frozen water, comprising rain and snow, that falls to the Earth's surface. It is the sum of large-scale precipitation and convective precipitation. This parameter does not include fog, dew or the precipitation that evaporates in the atmosphere before it lands at the surface of the Earth. This variable represents amount of water per unit area and time.
 
 - **Dipole Mode Index (DMI)**
-
+![DMI](/elceespatial/elceespatial.github.io-lc_rnd/assets/img/dipole_viz.png)
 Description: Intensity of the IOD is represented by anomalous SST gradient between the western equatorial Indian Ocean (50E-70E and 10S-10N) and the southeastern equatorial Indian Ocean (90E-110E and 10S-0N). This gradient is named as Dipole Mode Index (DMI). When the DMI is positive then, the phenomenon is refereed as the positive IOD and when it is negative, it is refereed as negative IOD. [DMI](https://psl.noaa.gov/gcos_wgsp/Timeseries/DMI/)
 
 Time Interval: Monthly
 Time Coverage: 1870 to present
 Update Status: Periodically updated
+
 
 
 ## Code, Methodolgy, and Results -  [Check out Code and Results Here] (https://github.com/elceespatial/elceespatial.github.io-lc_rnd/notebooks/clim680_FA23_FinalProject_EA_CanESM5_pr_DMI_Analysis.ipynb)
