@@ -67,6 +67,7 @@ Future of Work Ideas:
 - Regional Climate Model Seasonal Analysis
 -- Regional Climate models appear to have better resolution and more fidelity due to incorporating observational data into RCMs
 -- Seasonality in East Africa is different than season used to create global climate models
+![diff-seasonality](https://github.com/elceespatial/elceespatial.github.io-lc_rnd/blob/main/assets/img/eastA_precip_anom_2009_MAMJ.png)
 - Future analysis of Initial Comparison of SSPs and Observational data
 -- High-Resolution Satellite Imagery data (NDVI) compared to GCM precipitation and temperature
 
