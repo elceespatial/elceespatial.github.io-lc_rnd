@@ -1,4 +1,4 @@
-# CLIM680 [Final Project](https://github.com/elceespatial/elceespatial.github.io-lc_rnd/blob/main/clim680_FA23_CMIP6_CanESM5_Correlation_Analysis.ipynb)
+# CLIM680 [Final Project](https://github.com/eelceespatial/elceespatial.github.io-lc_rnd/notebooks/clim680_FA23_FinalProject_EA_CanESM5_pr_DMI_Analysis.ipynb)
 
 
 
@@ -40,7 +40,7 @@ Update Status: Periodically updated
 
 
 
-## Code, Methodolgy, and Results -  [Check out Code and Results Here](https://github.com/elceespatial/elceespatial.github.io-lc_rnd/blob/main/notebooks/clim680_FA23_FinalProject_EA_CanESM5_pr_DMI_Analysis.ipynb)
+## Code, Methodolgy, and Results -  [Check out Code and Results Here](https://github.com/eelceespatial/elceespatial.github.io-lc_rnd/notebooks/clim680_FA23_FinalProject_EA_CanESM5_pr_DMI_Analysis.ipynb)
 - Obtain CMIP6 data via Google Cloud
 - Plot precipitation for historical CMIP6 data
 - Calculate DMI Index 

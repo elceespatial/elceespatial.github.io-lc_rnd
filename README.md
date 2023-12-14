@@ -1,4 +1,4 @@
-# CLIM680 [Final Project](https://github.com/elceespatial/elceespatial.github.io-lc_rnd/blob/main/clim680_FA23_CMIP6_CanESM5_Correlation_Analysis.ipynb)
+# CLIM680 [Final Project](https://github.com/eelceespatial/elceespatial.github.io-lc_rnd/notebooks/clim680_FA23_FinalProject_EA_CanESM5_pr_DMI_Analysis.ipynb)
 
 
 
@@ -40,7 +40,7 @@ Update Status: Periodically updated
 
 
 
-## Code, Methodolgy, and Results -  [Check out Code and Results Here](https://github.com/elceespatial/elceespatial.github.io-lc_rnd/blob/main/notebooks/clim680_FA23_FinalProject_EA_CanESM5_pr_DMI_Analysis.ipynb)
+## Code, Methodolgy, and Results -  [Check out Code and Results Here](https://github.com/eelceespatial/elceespatial.github.io-lc_rnd/notebooks/clim680_FA23_FinalProject_EA_CanESM5_pr_DMI_Analysis.ipynb)
 - Obtain CMIP6 data via Google Cloud
 - Plot precipitation for historical CMIP6 data
 - Calculate DMI Index 
@@ -68,7 +68,7 @@ Future of Work Ideas:
 - Regional Climate Model Seasonal Analysis
 -- Regional Climate models appear to have better resolution and more fidelity due to incorporating observational data into RCMs
 -- Seasonality in East Africa is different than season used to create global climate models
-![diff-seasonality](c22726566223a7b2274797065223a352c226964223a226d61696e227d7d/elceespatial/elceespatial.github.io-lc_rnd/assets/images/eastA_precip_anom_2009_MAMJ.pnghttps://github.com/elceespatial/elceespatial.github.io-lc_rnd/blob/main/assets/img/eastA_precip_anom_2009_MAMJ.png)
+![diff-seasonality](c22726566223a7b2274797065223a352c226964223a226d61696e227d7d/elceespatial/elceespatial.github.io-lc_rnd/assets/images/eastA_precip_anom_2009_MAMJ.png)
 - Future analysis of Initial Comparison of SSPs and Observational data
 -- High-Resolution Satellite Imagery data (NDVI) compared to GCM precipitation and temperature
 
